@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamusa">United States</string>
+    <string name="teamned">Netherlands</string>
+    <string name="score">0 pts</string>
+    <string name="cardcnt">0 cards</string>
+    <string name="plus1">+1 POINT</string>
+    <string name="penalty">+1 PENALTY KICK</string>
+    <string name="yellowcard">YELLOW CARD</string>
+    <string name="reset">RESET</string>
+    <string name="winner"></string>
+    <string name="gameover">GAME OVER</string>
+    <string name="fifalogo">Fifa Logo</string>
+    <string name="ned">Netherlands Flag</string>
+    <string name="usa">United States Flag</string>
+    <string name="fifatext">2019 FIFA World Cup Finals</string>
+
+</resources>
